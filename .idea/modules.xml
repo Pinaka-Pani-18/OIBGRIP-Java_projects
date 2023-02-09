@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ATM_Machine/ATM_Machine.iml" filepath="$PROJECT_DIR$/ATM_Machine/ATM_Machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guessing_Number/Guessing_Number.iml" filepath="$PROJECT_DIR$/Guessing_Number/Guessing_Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OIBGRIP-Java_Projects.iml" filepath="$PROJECT_DIR$/.idea/OIBGRIP-Java_Projects.iml" />
+    </modules>
+  </component>
+</project>
